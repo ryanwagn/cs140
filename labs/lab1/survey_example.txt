@@ -1,0 +1,5 @@
+18	male	230.5
+19	female	123.4
+18	male	14.8
+20	male	181.3
+18	female	22.9
